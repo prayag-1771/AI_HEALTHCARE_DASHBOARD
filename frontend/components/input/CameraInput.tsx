@@ -38,8 +38,9 @@ const TARGET_FPS = 30;
 function connectWS(path: string): Promise<WebSocket | null> {
   return new Promise((resolve) => {
     try {
-      const host = typeof window !== "undefined" ? window.location.hostname : "localhost";
-      const url = `ws://${host}:8000/ws${path}`;
+      const wsBase = process.env.NEXT_PUBLIC_WS_URL
+        || `ws://${typeof window !== "undefined" ? window.location.hostname : "localhost"}:8000`;
+      const url = `${wsBase}/ws${path}`;
       console.log("[PPG] Connecting WebSocket:", url);
       const ws = new WebSocket(url);
       const timeout = setTimeout(() => { console.log("[PPG] WS timeout"); ws.close(); resolve(null); }, 3000);
