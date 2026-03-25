@@ -1,0 +1,1874 @@
+{
+  "chennai": {
+    "reports": [
+      {
+        "symptoms": [
+          "fatigue",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774267349,
+        "conditions": [
+          "Tachycardia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267356,
+        "conditions": [
+          "Hypoxia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267361,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774267366,
+        "conditions": [
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "fever",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774267371,
+        "conditions": [
+          "Hypoxia",
+          "Fever",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267376,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774267381,
+        "conditions": [
+          "Tachycardia",
+          "ECG Anomaly",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267386,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774267391,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774267396,
+        "conditions": [
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267401,
+        "conditions": [
+          "Hypoxia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774267406,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774267411,
+        "conditions": [
+          "Tachycardia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267416,
+        "conditions": [
+          "Hypoxia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267426,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267431,
+        "conditions": [
+          "Hypoxia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267436,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774267441,
+        "conditions": [
+          "Hypoxia",
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "fever",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774267446,
+        "conditions": [
+          "Fever",
+          "ECG Anomaly",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774267451,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "fever",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774267456,
+        "conditions": [
+          "Tachycardia",
+          "Fever",
+          "ECG Anomaly",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774267461,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774267466,
+        "conditions": [
+          "Hypoxia",
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774267471,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774267476,
+        "conditions": [
+          "Hypoxia",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267481,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774267491,
+        "conditions": [
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267496,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774267501,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever",
+          "headache"
+        ],
+        "timestamp": 1774267511,
+        "conditions": [
+          "Fever",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774267516,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774267526,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774267531,
+        "conditions": [
+          "Tachycardia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774267541,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774267546,
+        "conditions": [
+          "Hypoxia",
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774267551,
+        "conditions": [
+          "Tachycardia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "fever",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774267556,
+        "conditions": [
+          "Hypoxia",
+          "Fever",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267566,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever",
+          "headache"
+        ],
+        "timestamp": 1774267576,
+        "conditions": [
+          "Tachycardia",
+          "Fever",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774267586,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774267591,
+        "conditions": [
+          "ECG Anomaly",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774267596,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267606,
+        "conditions": [
+          "Hypoxia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774267611,
+        "conditions": [
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267616,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774267621,
+        "conditions": [
+          "Hypoxia",
+          "ECG Anomaly",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774267626,
+        "conditions": [
+          "Hypoxia",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774267631,
+        "conditions": [
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774267641,
+        "conditions": [
+          "Hypoxia",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774267646,
+        "conditions": [
+          "Hypoxia",
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774267651,
+        "conditions": [
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267656,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774267661,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774267676,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774267686,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774267691,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774267696,
+        "conditions": [
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774267701,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774267706,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774267711,
+        "conditions": [
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774267716,
+        "conditions": [
+          "Hypoxia",
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267721,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267731,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267736,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774267741,
+        "conditions": [
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774267746,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774267756,
+        "conditions": [
+          "Hypoxia",
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267761,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774267766,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267771,
+        "conditions": [
+          "Hypoxia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774267776,
+        "conditions": [
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267781,
+        "conditions": [
+          "Hypoxia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774267791,
+        "conditions": [
+          "Hypoxia",
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774267796,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774267801,
+        "conditions": [
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774267816,
+        "conditions": [
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774267821,
+        "conditions": [
+          "Hypoxia",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774267826,
+        "conditions": [
+          "Hypoxia",
+          "ECG Anomaly",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774267837,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774267842,
+        "conditions": [
+          "Hypoxia",
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774267847,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774267852,
+        "conditions": [
+          "Hypoxia",
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774267857,
+        "conditions": [
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774267862,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267867,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever",
+          "headache"
+        ],
+        "timestamp": 1774267877,
+        "conditions": [
+          "Fever",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever",
+          "cough",
+          "breathlessness",
+          "headache",
+          "fatigue"
+        ],
+        "timestamp": 1774267882,
+        "conditions": [
+          "Tachycardia",
+          "Hypoxia",
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774267930,
+        "conditions": [
+          "Hypoxia",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774267990,
+        "conditions": [
+          "Hypoxia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774268050,
+        "conditions": [
+          "Hypoxia",
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever",
+          "headache"
+        ],
+        "timestamp": 1774268067,
+        "conditions": [
+          "Tachycardia",
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774268076,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774268082,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "fever",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774268087,
+        "conditions": [
+          "Fever",
+          "ECG Anomaly",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774268092,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774268097,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever",
+          "headache"
+        ],
+        "timestamp": 1774268102,
+        "conditions": [
+          "Tachycardia",
+          "Fever",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774268107,
+        "conditions": [
+          "Hypoxia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774268122,
+        "conditions": [
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774268127,
+        "conditions": [
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774268132,
+        "conditions": [
+          "Hypoxia",
+          "ECG Anomaly",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "fever",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774268137,
+        "conditions": [
+          "Fever",
+          "ECG Anomaly",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774268142,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774268147,
+        "conditions": [
+          "Hypoxia",
+          "ECG Anomaly",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774268152,
+        "conditions": [
+          "Hypoxia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774268157,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774268162,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774268167,
+        "conditions": [
+          "Hypoxia",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774268172,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774268182,
+        "conditions": [
+          "Hypoxia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774268187,
+        "conditions": [
+          "Hypoxia",
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774268230,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever",
+          "headache"
+        ],
+        "timestamp": 1774268274,
+        "conditions": [
+          "Fever",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774268282,
+        "conditions": [
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774268302,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774268307,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever",
+          "headache"
+        ],
+        "timestamp": 1774268312,
+        "conditions": [
+          "Fever",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774268322,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774268327,
+        "conditions": [
+          "Tachycardia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774268332,
+        "conditions": [
+          "Hypoxia",
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever",
+          "headache"
+        ],
+        "timestamp": 1774268350,
+        "conditions": [
+          "Fever",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774268410,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774268530,
+        "conditions": [
+          "ECG Anomaly",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774268590,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774268650,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774268710,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774268770,
+        "conditions": [
+          "Hypoxia",
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever",
+          "headache"
+        ],
+        "timestamp": 1774268830,
+        "conditions": [
+          "Fever",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774268890,
+        "conditions": [
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774269070,
+        "conditions": [
+          "Tachycardia",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774269130,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774269190,
+        "conditions": [
+          "Tachycardia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774269310,
+        "conditions": [
+          "ECG Anomaly",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774269370,
+        "conditions": [
+          "Tachycardia",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774269501,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774269508,
+        "conditions": [
+          "Hypoxia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever",
+          "headache"
+        ],
+        "timestamp": 1774269518,
+        "conditions": [
+          "Fever",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774269533,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774269543,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774269553,
+        "conditions": [
+          "Tachycardia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774269558,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774269563,
+        "conditions": [
+          "Hypoxia",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774269568,
+        "conditions": [
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774269573,
+        "conditions": [
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774269578,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774269583,
+        "conditions": [
+          "Hypoxia",
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774269588,
+        "conditions": [
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "breathlessness",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774269598,
+        "conditions": [
+          "Hypoxia",
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774269603,
+        "conditions": [
+          "Tachycardia"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774269608,
+        "conditions": [
+          "Hypoxia",
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774269613,
+        "conditions": [
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774269623,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774269628,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774279727,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774279732,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774279747,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774279752,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "headache"
+        ],
+        "timestamp": 1774279767,
+        "conditions": [
+          "Tachycardia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever",
+          "headache"
+        ],
+        "timestamp": 1774279772,
+        "conditions": [
+          "Fever",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774279777,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774279797,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774279802,
+        "conditions": [
+          "Hypoxia",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough"
+        ],
+        "timestamp": 1774279812,
+        "conditions": [
+          "Hypoxia"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774279817,
+        "conditions": [
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "cough"
+        ],
+        "timestamp": 1774279832,
+        "conditions": [
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774279842,
+        "conditions": [
+          "Hypoxia",
+          "ECG Anomaly"
+        ]
+      },
+      {
+        "symptoms": [
+          "fatigue",
+          "fever",
+          "cough"
+        ],
+        "timestamp": 1774279847,
+        "conditions": [
+          "Fever",
+          "Stress"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774279852,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774279938,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "fever"
+        ],
+        "timestamp": 1774280058,
+        "conditions": [
+          "Fever"
+        ]
+      },
+      {
+        "symptoms": [
+          "breathlessness",
+          "cough",
+          "headache"
+        ],
+        "timestamp": 1774280178,
+        "conditions": [
+          "Hypoxia",
+          "ECG Anomaly"
+        ]
+      }
+    ],
+    "totals": {
+      "cough": 120,
+      "fever": 67,
+      "fatigue": 73,
+      "headache": 58,
+      "breathlessness": 71
+    }
+  }
+}
